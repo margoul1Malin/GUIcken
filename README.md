@@ -15,15 +15,15 @@ Pour le moment comaptible avec Linux & MacOS. Bientôt disponible sur Windows
 **Connectez votre clé** sur votre ordinateur, téléchargez GUIcken ici, et les requirements ici.  
 Mettez les dans le même dossier puis si vous ne voulez pas ajouter de nouvelles librairies sur votre système, créez un environnement virtuel :  
 
-```python3 -m venv nom_de_lenvironnement```
+``` python3 -m venv nom_de_lenvironnement ```
 
 Puis activez l'environnement : 
 
-```source nom_de_lenvironnement/bin/activate```
+``` source nom_de_lenvironnement/bin/activate ```
 
 Installez les requirements.txt avec pip : 
 
-```pip install requirements.txt```
+``` pip install requirements.txt ```
 
-Vous êtes bon, plus qu'à démarrer GUIcken et s'amuser comme indiqué sur la documentation de [RobberChicken](https://margoul1.xyz/products/RobberChicken%20v1/) : 
-```python3 GUIcken.py```
+Vous êtes bon, plus qu'à démarrer GUIcken et s'amuser comme indiqué sur la documentation de [RobberChicken](https://margoul1.xyz/products/RobberChicken%20v1/) :  
+``` python3 GUIcken.py ```
