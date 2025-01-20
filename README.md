@@ -12,7 +12,7 @@ Programme d'utilisation de [RobberChicken](https://margoul1.xyz/products/RobberC
 Pour le moment comaptible avec Linux & MacOS. Bientôt disponible sur Windows
 
 #### Pratique
-**Connectez votre clé** sur votre ordinateur, téléchargez GUIcken ici, et les requirements ici.  
+**Connectez votre clé** sur votre ordinateur, téléchargez [GUIcken](https://github.com/margoul1Malin/GUIcken/releases/tag/GUIcken_v1).  
 Mettez les dans le même dossier puis si vous ne voulez pas ajouter de nouvelles librairies sur votre système, créez un environnement virtuel :  
 
 ``` python3 -m venv nom_de_lenvironnement ```
